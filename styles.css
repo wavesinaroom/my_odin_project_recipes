@@ -1,0 +1,40 @@
+h1,h2,h4 {
+  font-family: "Helvetica", "Arial", sans-serif;
+  color: #022222;
+  text-align: center;
+}
+
+h2,h4 {
+  text-align: left;
+  font-size: 20px;
+}
+
+.testimony {
+  font-family: "Times New Roman", "Arial", sans-serif;
+  color: #4a2356;
+  font-style: italic;
+  text-align: right;
+  font-size: 20px;
+}
+
+.testimony .author
+{
+  font-style: normal;
+  font-size: 22px;
+}
+
+ul,ol {
+  family: "Trebuchet MS", sans-serif;
+  font-size: 18px;
+}
+
+#recipe-image{
+  border-radius: 75%;
+  width: 520px;
+  height: auto;
+}
+
+.recipe{
+  display: flex;
+  align-items: center;
+}
